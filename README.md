@@ -4,5 +4,13 @@
 
 ![image](https://github.com/kelvind627/CICD-PROJECT/assets/136044631/e17429c7-8510-4adc-b96e-7d3e173c7fa0)
 
+### STEPS RECOMMENDATIONS AND EXPLANATION FOR THIS PROJECT
+
 ![image](https://github.com/kelvind627/CICD-PROJECT/assets/136044631/cb200010-0e21-40eb-a240-f5fc4a666439)
+
+1. **Launch EC2 Instance:**
++ *Sign in as an "I am user" in your AWS*
++ 
+
+
 
